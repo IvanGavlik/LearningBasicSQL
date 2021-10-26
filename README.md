@@ -1,0 +1,2 @@
+# LearningBasicSQL-
+Learning basic SQL
