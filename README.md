@@ -3,7 +3,7 @@ Learning basic SQL
 
 ## ER diagram
 
-Here is ntity-relationship (ER) diagram for the example database used in this repo.
+Here is entity-relationship (ER) diagram for the database used in this repo.
 
 The diagram depicts the entities, or tables, in the database along with the foreign-key relationships between the tables.
 
