@@ -1,7 +1,18 @@
 # LearningBasicSQL
-Learning basic SQL
+Learning the basic of SQL by working on an actual project.
 
-## ER diagram
+## Project - Movie rental system  
+
+You want to design and create database for movie rental system that has
+* cutomer info: full name, contact info, address
+* contact info: email and phone
+* address info: street, house number, district, postal code, city, country
+* movie info: title, description, relase year, rating, list of actors, list of categories, list of features
+* movie has at least one actor, and an actor can be in zero or more movies
+* movie has at least one category, and an category can be in zero or more movies
+* rental info: customer, list of rented movies, price, rental and return date
+
+### ER diagram
 
 Here is entity-relationship (ER) diagram for the database used in this repo.
 
